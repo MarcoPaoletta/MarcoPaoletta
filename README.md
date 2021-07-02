@@ -14,7 +14,7 @@
 
 ### Tecnologias
 
-<img align= "left" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" >
+<img align= "left" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png" >
 
 <img align= "left" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
 
