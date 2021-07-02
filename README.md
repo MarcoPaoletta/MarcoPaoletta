@@ -36,15 +36,15 @@
 
 ### Proyectos destacados
 
-* [Flappy Bird](https://github.com/MarcoPaoletta/FlappyBird)
+ * [**Flappy Bird**](https://github.com/MarcoPaoletta/FlappyBird)
 
 <img src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/FlappyBird1.gif" width="256"/>
 
-* [PlatformerDEMO](https://github.com/MarcoPaoletta/PlatformerDEMO)
+* [**PlatformerDEMO**](https://github.com/MarcoPaoletta/PlatformerDEMO)
 
 <img src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/Platformer.gif" width="256">
 
-* [GitHubRepositoryGUIDE](https://github.com/MarcoPaoletta/GitHubRepositoryGUIDE)
+* [**GitHubRepositoryGUIDE**](https://github.com/MarcoPaoletta/GitHubRepositoryGUIDE)
 
 <img src ="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/GitHub.gif" width ="256">
 
