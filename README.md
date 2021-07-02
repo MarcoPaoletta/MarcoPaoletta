@@ -1,4 +1,4 @@
-### 💻 Hola, soy Marco Paoletta <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hola, soy Marco Paoletta <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px">
 
 - 🎮Comencé a programar usando Python en enero del 2021 a mis 13 años de edad por curiosidad a cerca de como se crea un videojuego  
 
@@ -14,12 +14,13 @@
 
 ### Tecnologias
 
-<img align= "left" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png">
-
-<img align= "left" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png">
+<img align="left" width ="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
 
 <br/>
 
+<img align="left" width ="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
+
+<br/>
 
 ---
 
@@ -35,7 +36,7 @@
 
 ---
 
-### Juegos
+### Proyectos destacados
 
 * [Flappy Bird](https://github.com/MarcoPaoletta/FlappyBird)
 
