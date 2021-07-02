@@ -12,6 +12,16 @@
 
 ---
 
+### Tecnologias
+
+<img align= "left" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" >
+
+<img align= "left" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
+
+<br/>
+
+---
+
 ###  Lenguajes de programacion que manejo
 
 <img src= "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=tokyonight">
