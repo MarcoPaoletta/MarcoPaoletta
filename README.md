@@ -43,7 +43,7 @@
 
 <img src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/Platformer.gif" width="256">
 
- * [**Flappy Bird**](https://github.com/MarcoPaoletta/FlappyBird)
+ * [**FlappyBird**](https://github.com/MarcoPaoletta/FlappyBird)
 
 <img src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/FlappyBird1.gif" width="256"/>
 
