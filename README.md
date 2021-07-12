@@ -12,7 +12,7 @@
 
 ---
 
-### Coding
+## Coding
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png">
 
@@ -25,19 +25,19 @@
 
 ---
 
-###  Lenguajes de programacion que manejo
+##  Lenguajes de programacion que manejo
 
 <img src= "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=tokyonight">
 
 ---
 
-###  Estadisticas GitHub
+##  Estadisticas GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarcoPaoletta&&show_icons=true&theme=cobalt" height = 150>
 
 ---
 
-### Proyectos destacados
+## Proyectos destacados
 
 * [**PlatformerComplete**](https://github.com/MarcoPaoletta/PlatformerComplete)
 
