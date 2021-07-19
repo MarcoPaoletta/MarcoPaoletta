@@ -8,7 +8,7 @@
 
 - 💣Planeo en breves comenzar a exportar mis propios videojuegos hacia la Google Play Store
 
-- 📡Me gustaria aprender desarrollo web mediante JavaScript
+- 📡Ademas, me interesa la IA y desarrollo web a nivel basico
 
 ---
 
@@ -27,7 +27,7 @@
 
 ##  Lenguajes de programacion que manejo
 
-<img src= "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=tokyonight">
+<img heigth= 250 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPaoletta&theme=tokyonight&hide_langs_below=1">
 
 ---
 
