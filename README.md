@@ -25,30 +25,14 @@
 
 ---
 
-##  Lenguajes de programacion que manejo
+##  Estadisticas
 
 <img heigth= 250 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPaoletta&theme=tokyonight&hide_langs_below=1">
-
----
-
-##  Estadisticas GitHub
-
 <img src="https://github-readme-stats.vercel.app/api?username=MarcoPaoletta&&show_icons=true&theme=cobalt" height = 150>
 
 ---
 
-## Proyectos destacados
-
-* [**PlatformerComplete**](https://github.com/MarcoPaoletta/PlatformerComplete)
-
-<img src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/Platformer.gif" width="256">
-
- * [**FlappyBird**](https://github.com/MarcoPaoletta/FlappyBird)
-
-<img src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/FlappyBird1.gif" width="256"/>
-
-
-* [**GitHubRepositoryGUIDE**](https://github.com/MarcoPaoletta/GitHubRepositoryGUIDE)
-
-<img src ="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/GitHub.gif" width ="256">
+<p align="center">
+<img aligh="center" src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/Platformer.gif" width="256"> <img aligh="center" src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/FlappyBird1.gif" width="256"/> <img aligh="center" src ="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/GitHub.gif" width ="256">
+<p/>
 
