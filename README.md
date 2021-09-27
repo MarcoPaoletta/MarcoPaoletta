@@ -18,33 +18,29 @@
 # Tecnologias
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png">
-
 <img align="left" width ="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-
 <img align="left" width ="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 
 
 <br/>
 
 ---
+# Estadisticas
 
-<h1 align="center">
-  Estadisticas
-<h1>
-<p align="center">
 <img height="180em" src= "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=tokyonight">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoPaoletta&&show_icons=true&theme=cobalt" height = 150>
-<p/>
 
 ---
 <h1 align="center">
    Proyectos destacados
 <h1/>
-<p align="center">
-<img aligh="center" src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/Platformer.gif" width="256"> <img aligh="center" src="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/FlappyBird1.gif" width="256"/> <img aligh="center" src ="https://github.com/MarcoPaoletta/MarcoPaoletta/blob/main/GitHub.gif" width ="256">
-<p/>
 
----
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Touch&theme=react)](https://github.com/MarcoPaoletta/Touch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=PlatformerComplete&theme=react)](https://github.com/MarcoPaoletta/PlatformerComplete)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=WaveShooter&theme=react)](https://github.com/MarcoPaoletta/WaveShooter)
+
+
 <h1 align="center">
    "Si puedes imaginarlo puedes programarlo"
 <h1/>
