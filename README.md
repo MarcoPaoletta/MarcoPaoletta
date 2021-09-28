@@ -1,4 +1,4 @@
-# Hola, soy Marco Paoletta un desarrollador de videojuegos independiente y autoexigente <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px">
+# Hola, soy Marco Paoletta un desarrollador de videojuegos independiente y apasionado por la programacion <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px">
 
 - Comencé a programar usando Python el 17 de enero del 2021 a mis 13 años de edad por curiosidad a cerca de como se crea un videojuego  
 - Actualmente, me centro principalmente en la creación de videojuegos usando GDScript (Godot Game Engine)
