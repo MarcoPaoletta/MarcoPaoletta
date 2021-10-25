@@ -38,5 +38,5 @@
 <h2 align="center">"Si puedes imaginarlo puedes programarlo"</h2>  
 </br>
 <div align = "right">
-<a align= "right" href=https://youtube.fandom.com/es/wiki/Programación_ATS target="BLANK">Programacion ATS (Alejandro Tabaoda)</p>
+<a align= "right" href=https://youtube.fandom.com/es/wiki/Programación_ATS target="_blank">Programacion ATS (Alejandro Tabaoda)</p>
 <div/>
