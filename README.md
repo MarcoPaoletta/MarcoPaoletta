@@ -9,26 +9,23 @@
 
 ---
 
-# Tecnologias
-<img align="left" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png">
-<img align="left" width ="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" width ="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" width ="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-
-<br/>
+<h2 align = "center">Tecnologias</h2>
+<div align = "center">
+<img align="center" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"><img align="center" width ="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img align="center" width ="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img align="center" width ="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<div/>
+                                                                                                                                                  
 <br/>
 
 ---
+<h2 align= "center">Estadisticas</h2>
 <div align = "center">
-<h1>Estadisticas<h1/>
 <img height="150em" src= "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=tokyonight"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcoPaoletta&&show_icons=true&theme=cobalt" height = 150>
 <div/>
    
-<br/>
-   
 ---
 
-# Proyectos destacados
+<h2 align= "center">Proyectos destacados</h2>
+   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Dictionaries-Save-Load&theme=react)](https://github.com/MarcoPaoletta/Dictionaries-Save-Load)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Touch&theme=react)](https://github.com/MarcoPaoletta/Touch)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=PlatformerComplete&theme=react)](https://github.com/MarcoPaoletta/PlatformerComplete)
@@ -38,6 +35,8 @@
 
 ---
 
-<h1 align="center">
-   "Si puedes imaginarlo puedes programarlo"
-<h1/>
+<h2 align="center">"Si puedes imaginarlo puedes programarlo"</h2>  
+</br>
+<div align = "right">
+<a align= "right" href=https://youtube.fandom.com/es/wiki/Programación_ATS>Programacion ATS (Alejandro Tabaoda)</p>
+<div/>
