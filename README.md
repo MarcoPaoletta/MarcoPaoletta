@@ -21,17 +21,6 @@
 <div align = "center">
 <img height="150em" src= "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=tokyonight"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcoPaoletta&&show_icons=true&theme=cobalt" height = 150>
 <div/>
-   
----
-
-<h2 align= "center">Proyectos destacados</h2>
-   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Dictionaries-Save-Load&theme=react)](https://github.com/MarcoPaoletta/Dictionaries-Save-Load)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Touch&theme=react)](https://github.com/MarcoPaoletta/Touch)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=PlatformerComplete&theme=react)](https://github.com/MarcoPaoletta/PlatformerComplete)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=WaveShooter&theme=react)](https://github.com/MarcoPaoletta/WaveShooter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=GitHubRepositoryGUIDE&theme=react)](https://github.com/MarcoPaoletta/GitHubRepositoryGUIDE)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=CatchEmAll&theme=react)](https://github.com/MarcoPaoletta/CatchEmAll)
 
 ---
 
