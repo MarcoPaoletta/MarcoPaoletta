@@ -40,7 +40,7 @@
 
 <h2>Contactarme</h2>
 
-<p>A pesar de que soy menor de edad, ya estoy decidido a quiero trabajar como programador cuando sea mayor de edad y haya terminado mis estudios. Por ende, dejo mis formas de contacto a continuacion por si alguien esta interesado para contratarme en un futuro</p>
+<p>A pesar de que soy menor de edad, ya estoy decidido a trabajar como programador cuando sea mayor de edad y haya terminado mis estudios. Por ende, dejo mi forma de contacto a continuacion por si alguien esta interesado para contratarme en un futuro:</p>
 
 <a href="mailto:marcopaoletta2007@gmail.com">
   <img src="https://img.shields.io/badge/marcopaoletta2007@gmail.com-Gmail-8B89CC?style-for-the-badge&logo=Gmail"/>
