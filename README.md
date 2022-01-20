@@ -18,8 +18,8 @@
 <h2>Estadisticas</h2>
 
 <a href="https://github.com/MarcoPaoletta">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcoPaoletta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />&ensp;
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcoPaoletta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />&ensp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=algolia" />
     </a>
 
 ---
