@@ -11,8 +11,7 @@
 
 <h2>Tecnologias</h2>
 
-<img width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png">&ensp;<img width ="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&ensp;<img width ="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&ensp;<img width ="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-                                                      
+<img src="https://img.shields.io/badge/-GDSCRIPT-61DBFB?style=for-the-badge&labelColor=black&logo=godot-engine&logoColor=61DBFB"/>&ensp;<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"/>&ensp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>&ensp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>                                                   
 ---
   
 <h2>Estadisticas</h2>
@@ -33,8 +32,11 @@
 
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Codigo-Facilito-HTML-CSS&theme=tokyonight)](https://github.com/MarcoPaoletta/Codigo-Facilito-HTML-CSS)&ensp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=QRCodeGenerator&theme=tokyonight)](https://github.com/MarcoPaoletta/QRCodeGenerator)&ensp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Codigo-Facilito-HTML-CSS&theme=tokyonight)](https://github.com/MarcoPaoletta/Codigo-Facilito-HTML-CSS)
+
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=QRCodeGenerator&theme=tokyonight)](https://github.com/MarcoPaoletta/QRCodeGenerator)
 
 ---
 
@@ -43,7 +45,7 @@
 <p>A pesar de que soy menor de edad, ya estoy decidido a trabajar como programador cuando sea mayor de edad y haya terminado mis estudios. Por ende, dejo mi forma de contacto a continuacion por si alguien esta interesado para contratarme en un futuro:</p>
 
 <a href="mailto:marcopaoletta2007@gmail.com">
-  <img src="https://img.shields.io/badge/marcopaoletta2007@gmail.com-Gmail-8B89CC?style-for-the-badge&logo=Gmail"/>
+  <img src="https://img.shields.io/badge/-marcopaoletta2007@gmail.com-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335"/>
 
 ---
 
