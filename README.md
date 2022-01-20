@@ -19,10 +19,18 @@
 
 <p align="center">
     <a href="https://github.com/MarcoPaoletta">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcoPaoletta&&show_icons=true&hide=prs,issues,contribs&theme=algolia" />
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=algolia" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcoPaoletta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=algolia" />
     </a>
 </p>
+
+---
+
+<h2>Contactarme</h2>
+<p>A pesar de que soy menor de edad, ya estoy decidido quiero trabajar como programador cuando sea mayor de edad y haya terminado mis estudios. Por ende, dejo mis formas de contacto a continuacion por si alguien esta interesado para contratarme en un futuro</p>
+
+<a href="mailto:marcopaoletta2007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-8B89CC?style-for-the-badge&logo=Gmail"/>
 
 ---
 
