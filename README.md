@@ -11,7 +11,7 @@
 
 <h2>Tecnologias</h2>
 
-<img src="https://img.shields.io/badge/-GDSCRIPT-61DBFB?style=for-the-badge&labelColor=black&logo=godot-engine&logoColor=61DBFB"/>&ensp;<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"/>&ensp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>&ensp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>                                                   
+<img src="https://img.shields.io/badge/-GDSCRIPT-61DBFB?style=for-the-badge&labelColor=black&logo=godot-engine&logoColor=61DBFB"/>&ensp;<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"/>&ensp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>&ensp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>&ensp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"/>                                                   
 ---
   
 <h2>Estadisticas</h2>
