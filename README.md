@@ -1,9 +1,8 @@
 # Hola, soy Marco Paoletta un desarrollador de videojuegos joven e independiente <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px">
 
 * Comencé a programar usando Python el 17 de enero del 2021 a mis 13 años de edad por curiosidad a cerca de como se crea un videojuego  
-* Actualmente, me centro principalmente en la creación de videojuegos usando GDScript (Godot Game Engine)
-* Realizo videojuegos frecuentemente que tengan distintas mecanicas y algunas veces recreo completamente una mecanica de un juego
-* Me parece mas importante la idea del juego, posibilidad de jugar en multiples dispositivos y buenos controles antes que videojuegos con alta capacidad grafica. Por ende, los proyectos que hago son en 2 dimensiones
+* Actualmente, me centro principalmente en la creación de videojuegos usando GDScript en Godot Engine y estoy aprendiendo a utilizar C# en Unity ya que es uno de los motores de videojuegos mas demandados en la actualidad
+* Realizo videojuegos frecuentemente que tengan distintas mecanicas y algunas veces recreo completamente una mecanica de un juego conocido
 * A pesar de que me encanta programar videojuegos, me interesa explorar otras areas de la programacion tales como el desarrollo web e inteligencia artificial
 * La mayor parte de mi tiempo la invierto en programar ya que considero que es el futuro del mundo y realmente lo disfruto 
 
@@ -11,7 +10,8 @@
 
 <h2>Tecnologias</h2>
 
-<img src="https://img.shields.io/badge/-GDSCRIPT-61DBFB?style=for-the-badge&labelColor=black&logo=godot-engine&logoColor=61DBFB"/>&ensp;<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"/>&ensp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>&ensp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>&ensp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"/>                                                   
+<img src="https://img.shields.io/badge/-GDSCRIPT-61DBFB?style=for-the-badge&labelColor=black&logo=godot-engine&logoColor=61DBFB"/>&ensp;<img src="https://img.shields.io/badge/-C Sharp-239120?style=for-the-badge&labelColor=black&logo=UNITY&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"/>&ensp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>&ensp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>&ensp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"/>
+
 ---
   
 <h2>Estadisticas</h2>
