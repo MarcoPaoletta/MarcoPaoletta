@@ -10,7 +10,7 @@
 
 <h2>Tecnologias</h2>
 
-<img src="https://img.shields.io/badge/-GDSCRIPT-61DBFB?style=for-the-badge&labelColor=black&logo=godot-engine&logoColor=61DBFB"/>&ensp;<img src="https://img.shields.io/badge/-C Sharp-239120?style=for-the-badge&labelColor=black&logo=UNITY&logoColor=FFFFFF"/>&ensp;<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"/>&ensp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>&ensp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>&ensp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/-GDSCRIPT-61DBFB?style=for-the-badge&labelColor=black&logo=godot-engine&logoColor=61DBFB"/>&ensp;<img src="https://img.shields.io/badge/-C%23-FFFFFF?style=for-the-badge&labelColor=black&logo=UNITY&logoColor=FFFFFF"/>&ensp;<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"/>&ensp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>&ensp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>&ensp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"/>
 
 ---
   
@@ -20,23 +20,6 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcoPaoletta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />&ensp;
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoPaoletta&layout=compact&langs_count=8&theme=algolia" />
     </a>
-
----
-
-<h2>Repositorios destacados</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Line2D-JSON-InputRemapping-Joystick&theme=tokyonight)](https://github.com/MarcoPaoletta/Line2D-JSON-InputRemapping-Joystick)&ensp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=God-Noel&theme=tokyonight)](https://github.com/MarcoPaoletta/God-Noel)&ensp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=PaPimPum&theme=tokyonight)](https://github.com/MarcoPaoletta/PaPimPum)&ensp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Touch&theme=tokyonight)](https://github.com/MarcoPaoletta/Touch)&ensp;
-
-</br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=Codigo-Facilito-HTML-CSS&theme=tokyonight)](https://github.com/MarcoPaoletta/Codigo-Facilito-HTML-CSS)
-
-</br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcoPaoletta&repo=QRCodeGenerator&theme=tokyonight)](https://github.com/MarcoPaoletta/QRCodeGenerator)
 
 ---
 
