@@ -8,6 +8,7 @@
 * My passion is the development of 2D casual games with simple but catchy mechanics to the player
 * I create my games completely self-taught going every each step of video game development
 * Project after project I improve my development skills and I always keep myself in constant learning
+* B2 english level, native spanish speaker
 * I live in Buenos Aires, Argentina and I'm 16 years old  
 
 ---
