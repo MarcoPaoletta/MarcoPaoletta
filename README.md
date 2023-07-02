@@ -13,6 +13,11 @@
 
 ---
 
+## Professional Experience
+* Voodoo: Participant in the Voodoo Academy Program as an external studio (April 2023 - Now)
+
+---
+
 ## Skills
 <img src="https://img.shields.io/badge/-C%23-FFFFFF?style=for-the-badge&labelColor=black&logo=UNITY&logoColor=FFFFFF"/>&ensp;<img src="https://img.shields.io/badge/-GDSCRIPT-61DBFB?style=for-the-badge&labelColor=black&logo=godot-engine&logoColor=61DBFB"/>&ensp;<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB"/>&ensp;<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26"/>&ensp;<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6"/>&ensp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"/>
 
@@ -28,9 +33,15 @@
 
 ## Contact<a name="contacto"></a>
 
-<a href="https://www.linkedin.com/in/marco-paoletta/">
-  <img src="https://img.shields.io/badge/-linkedin-0b67c2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0b67c2"/>
-</a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfTZhqVKkBWFPPCRFrPFfzxlNDXfMQbswkBmpLtSPJscgcxDSlGDhfHgVXBwttSGHnsWg">
   <img src="https://img.shields.io/badge/-marcopaoletta2007@gmail.com-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://wa.me/5491139550833">
+  <img src="https://img.shields.io/badge/-+54 9 11 39550833-25D366?style=for-the-badge&labelColor=black&logo=whatsapp&logoColor=25D366"/>
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/marco-paoletta/">
+  <img src="https://img.shields.io/badge/-linkedin-0b67c2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0b67c2"/>
 </a>
