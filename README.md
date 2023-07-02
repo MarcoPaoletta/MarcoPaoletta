@@ -14,7 +14,7 @@
 ---
 
 ## Professional Experience
-* Voodoo: Participant in the Voodoo Academy Program as an external studio (April 2023 - Now)
+* Voodoo: Participant in the [Voodoo Academy Program](https://www.voodoo.io/academy/) as an external studio (April 2023 - Now)
 
 ---
 
