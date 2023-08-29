@@ -5,16 +5,14 @@
 <img src="Banner.png">
 
 ## About me
-* My passion is the development of 2D casual games with simple but catchy mechanics to the player
-* I create my games completely self-taught going every each step of video game development
-* Project after project I improve my development skills and I always keep myself in constant learning
-* B2 english level, native spanish speaker
-* I live in Buenos Aires, Argentina and I'm 16 years old  
+I am a Unity Game Developer and I am currently focusing on creating hypercasual and hybridcasual projects. I consider programming as the future of the world and I really enjoy it. I try to improve myself project after project and I always keep myself in
+constant learning. I live in Buenos Aires, Argentina and I'm 16 years old  
 
 ---
 
 ## Professional Experience
 * Voodoo: Participant in the [Voodoo Academy Program](https://www.voodoo.io/academy/) as an external studio (April 2023 - Now)
+* [Fiverr](https://www.fiverr.com/marco_paoletta) (freelance): Unity Game Developer (July 2023 - Now) 
 
 ---
 
@@ -42,6 +40,9 @@
 
 <br>
 
+<a href="https://www.fiverr.com/marco_paoletta">
+  <img src="https://img.shields.io/badge/-fiverr-1dbd73?style=for-the-badge&labelColor=black&logo=fiverr&logoColor=1dbd73"/>
+</a>
 <a href="https://www.linkedin.com/in/marco-paoletta/">
   <img src="https://img.shields.io/badge/-linkedin-0b67c2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0b67c2"/>
 </a>
