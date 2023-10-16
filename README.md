@@ -5,14 +5,15 @@
 <img src="Banner.png">
 
 ## About me
-I am a Unity Game Developer and I am currently focusing on creating hypercasual and hybridcasual projects. I consider programming as the future of the world and I really enjoy it. I try to improve myself project after project and I always keep myself in
-constant learning. I live in Buenos Aires, Argentina and I'm 16 years old  
+I am a Unity Game Developer with over 3 years of experience in the field. Currently, I am a Participant in the Voodoo Academy Program in which I work closely with Voodoo's team, one of the biggest mobile game development companies, to create Hybrid Casual games. This valuable experience led me to massively improve my game development skills. Besides that, I also freelance, have a YouTube channel related to this topic called Letta Corporation and work as a Unity Game Development Tutor, Content Creator and Blogger at JuicesTutors.
 
 ---
 
 ## Professional Experience
-* Voodoo: Participant in the [Voodoo Academy Program](https://www.voodoo.io/academy/) as an external studio (April 2023 - Now)
-* [Fiverr](https://www.fiverr.com/marco_paoletta) (freelance): Unity Game Developer (July 2023 - Now) 
+* Voodoo: Participant in the [Voodoo Academy Program](https://www.voodoo.io/academy/) as an external studio. Creation and testing of Hybrid Casual prototypes working closely with Voodoo's team. (April 2023 - Present)
+* [Game Development YouTuber (Letta Corporation)](https://www.youtube.com/@lettacorporation/featured): Creation of videos related to the game development field such as full courses, advises, news, etcetera. (July 2022 - Present)  
+* [JuicesTutors](https://juicestutors.org/teachers/view/marcopaoletta): Unity Game Development Tutor + Short Content Creator + Blogger. Unity teaching in an e-learning platform - Ideation, scripting and editing of short videos - Writing of game dev. blogs. (October 2023 - Present)  
+* [Fiverr](https://www.fiverr.com/marco_paoletta) (freelance): Fiverr Freelance Unity Game Developer. Offering a variety of services related to game development such as full game creation, prototype development, etcetera. (July 2023 - Present) 
 
 ---
 
@@ -40,9 +41,9 @@ constant learning. I live in Buenos Aires, Argentina and I'm 16 years old
 
 <br>
 
-<a href="https://www.fiverr.com/marco_paoletta">
-  <img src="https://img.shields.io/badge/-fiverr-1dbd73?style=for-the-badge&labelColor=black&logo=fiverr&logoColor=1dbd73"/>
-</a>
 <a href="https://www.linkedin.com/in/marco-paoletta/">
   <img src="https://img.shields.io/badge/-linkedin-0b67c2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0b67c2"/>
+</a>
+<a href="https://www.fiverr.com/marco_paoletta">
+  <img src="https://img.shields.io/badge/-fiverr-1dbd73?style=for-the-badge&labelColor=black&logo=fiverr&logoColor=1dbd73"/>
 </a>
