@@ -5,7 +5,10 @@
 <img src="Banner.png">
 
 ## About me
-I am a Unity Game Developer with over 3 years of experience in the field. Currently, I am a Participant in the Voodoo Academy Program in which I work closely with Voodoo's team, one of the biggest mobile game development companies, to create Hybrid Casual games. This valuable experience led me to massively improve my game development skills. Besides that, I also freelance, have a YouTube channel related to this topic called Letta Corporation and work as a Unity Game Development Tutor, Content Creator and Blogger at JuicesTutors.
+* Unity Game Developer living in Buenos Aires, Argentina with over 3 years of experience in this field.
+* Currently, I am a Participant in the Voodoo Academy Program in which I work closely with Voodoo's team to create Hybrid Casual games so I was able to improve my skills massively.
+* Besides that, I also freelance, have a YouTube channel related to this topic called Letta Corporation and work as a Unity Game Development Tutor, Content Creator and Blogger at JuicesTutors.
+* I try to be a better developer everyday at my 16 years old, project after project, I am always learning new stuff and I look forward to getting more professional experiences that can fine tune me
 
 ---
 
