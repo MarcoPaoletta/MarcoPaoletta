@@ -18,9 +18,16 @@
 * [JuicesTutors](https://juicestutors.org/teachers/view/marcopaoletta): Unity Game Development Tutor + Short Content Creator + Blogger. Unity teaching in an e-learning platform - Ideation, scripting and editing of short videos - Writing of game dev. blogs. (October 2023 - Present)  
 * [Fiverr](https://www.fiverr.com/marco_paoletta) (freelance): Fiverr Freelance Unity Game Developer. Offering a variety of services related to game development such as full game creation, prototype development, etcetera. (July 2023 - Present) 
 
+---
+
+## Testimonials
 > "Marco showed professional determination and dedication within the project we collaborated. He understood clearly the game mechanics and player engagement and followed given instructions to accomplish the encommended task. He showed skill, enthusiasm and good knowledge of minigames creation. Apart from that, communication was smooth and he took the project as his, giving it the same important it has for you. He showed he really loves the art and craft of creating games. Looking forward to collaborating with him in the future"
 
 *jcoll17. Fiverr client*
+
+> "Marco is a young man with a maturity and work ethic far beyond his years. Working with him from across the globe with a 5-hour time difference has been phenomenal. He is serious and conscientious and delivers quality work timeously. I have found him to be intelligent, humble, and diligent"
+
+*Brent van Rooyen. JuicesTutors' founder*
 
 ---
 
