@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Marco Paoletta</h1>
 </div>
 
-<img src="Banner.png">
+<img src="Banner.jpg">
 
 ## About me
 * Unity Game Developer living in Buenos Aires, Argentina with over 3 years of experience in this field.
